@@ -1,35 +1,35 @@
-theme: jekyll-theme-time-machine
+
 
  &#x1F4D8;General Rules&#x1F4D8;
 
   
     Use common sense.
 
-    You need a valid RP reason to damage or arrest any player, You may only kill someone in self-defense if they have damaged you first.
+You need a valid RP reason to damage or arrest any player, You may only kill someone in self-defense if they have damaged you first.
 
-    If there is a job-specific rule category for a job, the rules for jobs prioritize other rules.
+If there is a job-specific rule category for a job, the rules for jobs prioritize other rules.
 
-    Any way of baiting or convincing player who don't know better to break rules will result in a warn/jail and or ban depending on severity
+Any way of baiting or convincing player who don't know better to break rules will result in a warn/jail and or ban depending on severity
 
-    Staff is here to help. If there is no rule listed or its specifications, Staff may tell you what is and isn't allowed.
+Staff is here to help. If there is no rule listed or its specifications, Staff may tell you what is and isn't allowed.
 
-    Spamming of any kind is not allowed.
+Spamming of any kind is not allowed.
 
-    Do not disconnect, suicide, change jobs, change names to get out of a roleplay/staff situation.
+Do not disconnect, suicide, change jobs, change names to get out of a roleplay/staff situation.
 
-    Scamming is not allowed. HooptyRp we are not responsible for any issues with real currency for in-game currency transactions.
+Scamming is not allowed. HooptyRp we are not responsible for any issues with real currency for in-game currency transactions.
 
-    Displaying personal information such as phone numbers, emails, addresses, & IPs is not allowed even if it's just a joke.
+ Displaying personal information such as phone numbers, emails, addresses, & IPs is not allowed even if it's just a joke.
 
-    The only real-life transaction allowed is in-game items for store purchases (Ex: Money for ranks, etc.)
+The only real-life transaction allowed is in-game items for store purchases (Ex: Money for ranks, etc.)
 
-    Abuse of props to minge/block of entities or players & any other malicious ways is not allowed
+Abuse of props to minge/block of entities or players & any other malicious ways is not allowed
 
-    Players may only own one base
+Players may only own one base
 
 Scripting of any form Macros, aimbot, esp isn't allowed
 
-Building & Basing rules
+&#x1F4D8;Building & Basing rules&#x1F4D8;
 
  
 Too avoid getting raided while building you must post a visible building sign as 40 font or above, on the building.
@@ -63,7 +63,7 @@ You cannot materialize fences unless they are see-through both ways
 You may not have a base that goes past the sidewalks
 
 
-Raiding Rules
+&#x1F4D8;Raiding Rules&#x1F4D8;
 
   
 You may only raid as a Criminal or Sewer Monster
@@ -76,7 +76,7 @@ There is a 10 minute raid cool down on a base
 
 There is no cooldown on chain raiding
 
-Mugging Rules
+&#x1F4D8;Mugging Rules&#x1F4D8;
 
   
 Players under level 10 cannot be mugged
@@ -95,7 +95,7 @@ During mugs, you may not strip someone of their rights to run or fight back.
 
 If the victim drops the cash you may not kill them
 
-Party Rules
+&#x1F4D8;Party Rules&#x1F4D8;
 
   
 You may KOS anyone who damages or kills a member of your party.
@@ -108,7 +108,7 @@ You may not defend another player being damaged unless they are in your party.
 
 Parties must be limited to 7 members. REMEMBER HOWEVER, you may only raid in groups of 5.
 
-Job Rules
+&#x1F4D8;Job Rules&#x1F4D8;
 
   
 Citizens:
@@ -330,7 +330,7 @@ SWAT Sniper
 
  
 
-Gang Rules
+&#x1F4D8;Gang Rules&#x1F4D8;
 
 you must advert before you take a territory ( GANG takes AREA)
 
