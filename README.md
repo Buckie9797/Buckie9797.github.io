@@ -1,6 +1,6 @@
-title: <Motd>
 
-  (&#x1F4D8;)General Rules(&#x1F4D8;)
+
+ &#x1F4D8;General Rules&#x1F4D8;
 
   
     Use common sense.
