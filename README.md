@@ -1,7 +1,3 @@
----
-Motd
----
-
 
 
  &#x1F4D8;General Rules&#x1F4D8;
