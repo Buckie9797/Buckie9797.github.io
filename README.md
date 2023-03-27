@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-time-machine
 
  &#x1F4D8;General Rules&#x1F4D8;
 
