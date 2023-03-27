@@ -1,6 +1,6 @@
 #MOTD
 
- General Rules
+  General Rules
 
   
     Use common sense.
