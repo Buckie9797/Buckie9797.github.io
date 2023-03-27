@@ -3,7 +3,7 @@
  &#x1F4D8;General Rules&#x1F4D8;
 
   
-    Use common sense.
+Use common sense.
 
 You need a valid RP reason to damage or arrest any player, You may only kill someone in self-defense if they have damaged you first.
 
