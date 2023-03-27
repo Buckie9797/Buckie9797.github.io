@@ -115,39 +115,39 @@ Citizens:
 
   
 Civilian
-    You cannot perform illegal activities
+You cannot perform illegal activities
     
-    You can give printers to the banker
+You can give printers to the banker
 
 DJ
-    You can only build on the street
+You can only build on the street
     
-    You can play music and use a soundboard
+You can play music and use a soundboard
 
 Banker
-    You can only base in the bank
+You can only base in the bank
     
-    You can only base with other bankers and security guards
+You can only base with other bankers and security guards
     
-    Printers inside of the bank become legal
+Printers inside of the bank become legal
 
 Security Guard
-    You are allowed to protect anyone who hires you
+You are allowed to protect anyone who hires you
     
-    You must be in the same party as whoever hired you
+You must be in the same party as whoever hired you
 
 Hobo
-    You may build on the street
+You may build on the street
     
-    You can Mug and Steal
+You can Mug and Steal
 
 Medic
-    You cannot perform illegal activities
+You cannot perform illegal activities
 
 Miner
-    you cannot base
+you cannot base
     
-    You cannot perform illegal activities
+You cannot perform illegal activities
 
  
 
@@ -155,77 +155,77 @@ Criminals:
 
   
 Hooker
-    You may only base with a pimp to sell your business
+You may only base with a pimp to sell your business
     
-    You cannot own printers
+You cannot own printers
     
-    You can own a gun larger than a pistol
+You can own a gun larger than a pistol
 
 Pimp
-    You may only base with a pimp to sell your business
+You may only base with a pimp to sell your business
     
-    You cannot own printers
+You cannot own printers
     
-    You can own a gun larger than a pistol
+You can own a gun larger than a pistol
 
 Hitman/Assassin
-    You are not allowed to base and have printers
+You are not allowed to base and have printers
     
-    You can only accept hits through the hit menu
+You can only accept hits through the hit menu
 
 Terrorist recruit
-    you can only base with Terrorists
+you can only base with Terrorists
     
-    you can only assist in raids made by Osama
+you can only assist in raids made by Osama
     
-    you can not call Terror, but you can assist in one
+ you can not call Terror, but you can assist in one
     
-    You can perform illegal activities, i.e. raids, mugging, own printers.
+You can perform illegal activities, i.e. raids, mugging, own printers.
  
 Terrorist
-    You can only base with Terrorists
+You can only base with Terrorists
     
-    You can advert Terror to cause mayhem
+You can advert Terror to cause mayhem
     
-    You may perform illegal activities, i.e. raids, mugging, own printers.
+You may perform illegal activities, i.e. raids, mugging, own printers.
 
 Osama Bin Laden
-    You can only base with Terrorists
+You can only base with Terrorists
     
-    You have to call raids for Terrorist Recruits
+You have to call raids for Terrorist Recruits
     
-    You can advert Terror to cause mayhem
+You can advert Terror to cause mayhem
     
-    You may perform illegal activities, i.e. raids, mugging, own printers.
+You may perform illegal activities, i.e. raids, mugging, own printers.
 
 there is a 15 minute cooldown between terrors
 
 Bloods Leader
-    All Crips are KOS
+All Crips are KOS
     
-    You can only base with other Bloods
+You can only base with other Bloods
     
-    You may perform illegal activities, i.e. raids, mugging, own printers.
+You may perform illegal activities, i.e. raids, mugging, own printers.
     
-    You can counter illegal activities
+You can counter illegal activities
 
 Bloods member
-    All Crips are KOS
+All Crips are KOS
     
-    You can only base with other Bloods
+You can only base with other Bloods
     
-    You may perform illegal activities, i.e. raids, mugging, own printers.
+You may perform illegal activities, i.e. raids, mugging, own printers.
     
-    You can counter illegal activities
+You can counter illegal activities
 
 Crips Leader
-    All Bloods are KOS
+ All Bloods are KOS
     
-    You can only base with other Crips
+You can only base with other Crips
     
-    You may perform illegal activities, i.e. raids, mugging, own printers.
+You may perform illegal activities, i.e. raids, mugging, own printers.
     
-    You can counter illegal activities
+You can counter illegal activities
 
 Crips Member
     All Bloods are KOS
@@ -284,12 +284,12 @@ Drug Dealer
     You can have printers
 
 Vape Dealer
-    You can only base with other Dealers and Security guards
-    You can have printers
+You can only base with other Dealers and Security guards
+You can have printers
 
 The Man
-    You can only base with other Dealers and Security guards
-    You can have printers
+You can only base with other Dealers and Security guards
+You can have printers
 
  
 
@@ -297,36 +297,36 @@ Civil Protection:
 
   
 Mayor
-    Laws cannot contradict the base laws
-    All wants and warrants must have a valid RP reason behind it
-    You may corrupt the government, You must put it in the laws (The government is corrupt)
-    If you corrupted the government you can allow printers in the pd along with criminals
-    You cannot participate in Police raids
+Laws cannot contradict the base laws
+All wants and warrants must have a valid RP reason behind it
+You may corrupt the government, You must put it in the laws (The government is corrupt)
+If you corrupted the government you can allow printers in the pd along with criminals
+You cannot participate in Police raids
 
 Civil Protection Chief
-    You follow the rules set by the mayor
-    if the government is corrupt you can unarrest people for money this cant exceed 100k
-    If the government is corrupted you can own printers
+You follow the rules set by the mayor
+if the government is corrupt you can unarrest people for money this cant exceed 100k
+If the government is corrupted you can own printers
 
 Civil Protection
-    You follow the rules set by the mayor
-    Wants and Warrants must have a valid RP reason
-    If the government is corrupted you can own printers
+You follow the rules set by the mayor
+Wants and Warrants must have a valid RP reason
+If the government is corrupted you can own printers
 
 Juggernaut
-    You allow the rules set by the mayor
-    Wants and Warrants must have a valid RP reason
-    If the government is corrupt you can own printers
+You allow the rules set by the mayor
+Wants and Warrants must have a valid RP reason
+If the government is corrupt you can own printers
  
 SWAT Medic
-    You follow the rules set by the mayor
-    Wants and Warrants must have a valid RP reason
-    If the government is corrupted you can own printers
+You follow the rules set by the mayor
+Wants and Warrants must have a valid RP reason
+If the government is corrupted you can own printers
 
 SWAT Sniper
-    You follow the rules set by the mayor
-    Wants and Warrants must have a valid RP reason
-    If the government is corrupt you can own printers
+You follow the rules set by the mayor
+Wants and Warrants must have a valid RP reason
+If the government is corrupt you can own printers
 
  
 
