@@ -1,4 +1,4 @@
-#NOTD
+#MOTD
 
  General Rules
 
