@@ -1,6 +1,6 @@
 #MOTD
 
-  General Rules
+  (&#x1F4D8;)General Rules(&#x1F4D8;)
 
   
     Use common sense.
@@ -33,49 +33,79 @@ Building & Basing rules
 
  
 Too avoid getting raided while building you must post a visible building sign as 40 font or above, on the building.
+
 While having a building sign up you cannot have any raidables
+
 You cannot have a building sign and KOS sign at the same time
+
 Every base can have a maximum of 4 keypad fading doors
+
 You cannot have a maze base or trap base
+
 You may not make a unraidable base (no keypad at the end of door, prop block a door etc.
+
 Every keypad must be connected to a door
+
 For shoot holes to be allowed a body part must me visible at all times
+
 No run through 1 way shoot holes (must be connected to a button)
+
 No one way shoot holes
+
 No black-out bases or visually cancerous materials
+
 You may only base in places that have a ownable door (waterfall and cave do not count)
+
 You may not have a base that is fully blacked out
+
 You cannot materialize fences unless they are see-through both ways 
+
 You may not have a base that goes past the sidewalks
+
 
 Raiding Rules
 
   
 You may only raid as a Criminal or Sewer Monster
+
 The front door must be owned on a base to raid it
+
 You can not raid any base that has a visible building sign
+
 There is a 10 minute raid cool down on a base
+
 There is no cooldown on chain raiding
 
 Mugging Rules
 
   
 Players under level 10 cannot be mugged
+
 You may mug someone for 1000x their level
+
 You may not mug players who are AFK or have a building sign on the exterior of their base.
+
 There is a 5-minute cooldown between each mug.
+
 You must provide your victim with 10 seconds to drop the cash, you may chase after them if they disobey, and may shoot them when 10 seconds have passed.
+
 Your target must be aware they are being mugged.
+
 During mugs, you may not strip someone of their rights to run or fight back.
+
 If the victim drops the cash you may not kill them
 
 Party Rules
 
   
 You may KOS anyone who damages or kills a member of your party.
+
 You may KOS anyone who is actively mugging/raiding a party member, or breaking a party member's KOS sign.
+
 When assisting your party in raids/mugs you MUST advert assist.
+
 You may not defend another player being damaged unless they are in your party.
+
 Parties must be limited to 7 members. REMEMBER HOWEVER, you may only raid in groups of 5.
 
 Job Rules
@@ -86,23 +116,29 @@ Citizens:
   
 Civilian
     You cannot perform illegal activities
+    
     You can give printers to the banker
 
 DJ
     You can only build on the street
+    
     You can play music and use a soundboard
 
 Banker
     You can only base in the bank
+    
     You can only base with other bankers and security guards
+    
     Printers inside of the bank become legal
 
 Security Guard
     You are allowed to protect anyone who hires you
+    
     You must be in the same party as whoever hired you
 
 Hobo
     You may build on the street
+    
     You can Mug and Steal
 
 Medic
@@ -110,6 +146,7 @@ Medic
 
 Miner
     you cannot base
+    
     You cannot perform illegal activities
 
  
@@ -119,69 +156,100 @@ Criminals:
   
 Hooker
     You may only base with a pimp to sell your business
+    
     You cannot own printers
+    
     You can own a gun larger than a pistol
 
 Pimp
     You may only base with a pimp to sell your business
+    
     You cannot own printers
+    
     You can own a gun larger than a pistol
 
 Hitman/Assassin
     You are not allowed to base and have printers
+    
     You can only accept hits through the hit menu
 
 Terrorist recruit
     you can only base with Terrorists
+    
     you can only assist in raids made by Osama
+    
     you can not call Terror, but you can assist in one
+    
     You can perform illegal activities, i.e. raids, mugging, own printers.
  
 Terrorist
     You can only base with Terrorists
+    
     You can advert Terror to cause mayhem
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
 
 Osama Bin Laden
     You can only base with Terrorists
+    
     You have to call raids for Terrorist Recruits
+    
     You can advert Terror to cause mayhem
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
 
 there is a 15 minute cooldown between terrors
 
 Bloods Leader
     All Crips are KOS
+    
     You can only base with other Bloods
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
+    
     You can counter illegal activities
 
 Bloods member
     All Crips are KOS
+    
     You can only base with other Bloods
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
+    
     You can counter illegal activities
 
 Crips Leader
     All Bloods are KOS
+    
     You can only base with other Crips
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
+    
     You can counter illegal activities
 
 Crips Member
     All Bloods are KOS
+    
     You can only base with other Crips
+    
     You may perform illegal activities, i.e. raids, mugging, own printers.
+    
     You can counter illegal activities
 
 Thief/Experienced Thief/Master Thief
+
     You may perform illegal activities, i.e. raids, mugging, own printers.
+    
     You can counter illegal activities
 
 Human trafficker
+
     You can base in order to keep your captives
+    
     You must advert kidnap before taking someone
+    
     You can put a price on freedom
+    
     You cannot raid, mug, or counter
 
 Sewer Monsters
